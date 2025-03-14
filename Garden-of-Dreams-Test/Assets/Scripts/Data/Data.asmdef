@@ -1,0 +1,17 @@
+{
+    "name": "Data",
+    "rootNamespace": "",
+    "references": [
+        "GridSystem",
+        "Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

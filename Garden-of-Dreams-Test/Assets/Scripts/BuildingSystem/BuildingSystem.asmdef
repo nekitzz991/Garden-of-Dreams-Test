@@ -1,0 +1,19 @@
+{
+    "name": "BuildingSystem",
+    "rootNamespace": "",
+    "references": [
+        "GridSystem",
+        "Data",
+        "InputSystem",
+        "Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

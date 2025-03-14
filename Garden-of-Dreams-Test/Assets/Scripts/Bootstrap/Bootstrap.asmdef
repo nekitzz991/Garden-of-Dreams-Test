@@ -1,0 +1,21 @@
+{
+    "name": "Bootstrap",
+    "rootNamespace": "",
+    "references": [
+        "GridSystem",
+        "InputSystem",
+        "UI",
+        "BuildingSystem",
+        "Data",
+        "Core" 
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
